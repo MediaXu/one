@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql:///vhr?serveTimezone=Asia/Shanghai
+server:
+  port: 8081
